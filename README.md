@@ -1,5 +1,5 @@
 # mit-xpro-projects
-
+## Description
 This repo currently has my most recent project completed with MIT xPro's certification course.   
 The project simulates a pacman moving back and forth across the screen.   
 It does this by using four different pacman images and using the DOM to move the image across the screen and reversing when it hits the edge of the screen.  
